@@ -10,15 +10,14 @@ body {
 }
 
 /* Enlaces */
-a {
-    color: #96BEFF; /* Azul */
+#sidebar a {
+    font-size: 16px; /* Tamaño de fuente deseado para enlaces dentro del sidebar */
 }
 
 /* Encabezados */
 h1, h2, h3, h4, h5, h6 {
     color: #000000; /* Negro */
 }
-
 
 /* Botones */
 .btn {
