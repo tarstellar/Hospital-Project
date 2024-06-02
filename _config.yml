@@ -1,3 +1,22 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # agregar esta línea a la lista de plugins si aún no la tienes
+
+title: Hospital Project
+description: This is the Database and Python project. Made by: Isaac Ruiz, Anderson Pérez and Maria del Mar Manzano.
+show_downloads: false
+theme: jekyll-theme-minimal
+
+# Configuración de la barra lateral
+sidebar:
+  title: Enlaces
+  description: Navega por el sitio
+  navigation:
+    - title: Inicio
+      url: /
+    - title: Blog
+      url: /blog
+    - title: Proyectos
+      url: /proyectos
+    - title: Acerca de
+      url: /acerca
