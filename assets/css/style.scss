@@ -10,7 +10,11 @@ body {
 }
 
 /* Enlaces */
-#sidebar  {
+#sidebar p {
+    font-size: 14px; /* Tamaño de fuente deseado para párrafos dentro del sidebar */
+}
+
+#sidebar a {
     font-size: 14px; /* Tamaño de fuente deseado para enlaces dentro del sidebar */
 }
 
