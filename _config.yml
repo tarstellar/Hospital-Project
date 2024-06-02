@@ -3,6 +3,4 @@ logo: /images/logoapp.png
 description: This is a Database and Python project. Made by: Isaac Ruiz, Anderson Pérez and Maria del Mar Manzano.
 show_downloads: false
 google_analytics:
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme 
+theme: jekyll-theme-minimal
