@@ -1,2 +1,5 @@
-# hospital-project
-This is a repository where I save the Database and Python project I did with two classmates.
+# Hospital Project
+
+Here is all the explanation and documentation about this project.
+
+Made by: Isaac Ruiz, Anderson Pérez and Maria del Mar Manzano.
