@@ -1,0 +1,42 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Estilos personalizados */
+body {
+    background-color: #ffffff; /* Blanco */
+    color: #000000; /* Negro */
+}
+
+/* Enlaces */
+a {
+    color: #96BEFF; /* Azul */
+}
+
+/* Encabezados */
+h1, h2, h3, h4, h5, h6 {
+    color: #000000; /* Negro */
+}
+
+/* Barra de navegación */
+.navbar {
+    background-color: #87C3FF; /* Azul */
+    color: #ffffff; /* Blanco */
+}
+
+/* Botones */
+.btn {
+    background-color: #87C3FF; /* Azul */
+    color: #ffffff; /* Blanco */
+}
+
+/* Enfasis */
+strong, b {
+    color: #000000; /* Negro */
+}
+
+/* Bloque de código */
+pre {
+    background-color: #f0f0f0; /* Gris claro */
+}
