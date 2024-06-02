@@ -7,10 +7,8 @@ description: This is the Database and Python project. Made by Isaac Ruiz, Anders
 show_downloads: false
 theme: jekyll-theme-minimal
 
-# Configuración de la barra lateral
-sidebar:
-  title: Enlaces
-  description: Navega por el sitio
+header:
+  title: Links
   navigation:
     - title: Inicio
       url: /
