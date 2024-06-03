@@ -1,5 +1,3 @@
-- name: Home
-  link: /page-1/
 - name: About us
   link: /About us/
 - name: ER Diagram 
