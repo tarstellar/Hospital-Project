@@ -1,0 +1,24 @@
+- name: Home
+  link: /page-1/
+- name: About us
+  link: /About us/
+- name: ER Diagram 
+  link: /ER Diagram and Relational Schema/
+- name: Security
+  link: /Security/
+- name: High Disponibility
+  link: /High Disponibility/
+- name: Python
+  dropdown: 
+    - name: Menus
+      link: /page-2/
+    - name: Functions
+      link: /page-2/
+    - name: Dummy Data
+      link: /Dummy Data/
+- name: Export and PowerBI
+  link: /Export and PowerBI/
+- name: User's manual
+  link: /User's manual/
+- name: Extras
+  link: /Extras/
